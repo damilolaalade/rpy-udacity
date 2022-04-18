@@ -2,4 +2,8 @@ In this project, we applied Python and object-oriented programming skills to bui
 
 The game has two players. In a single round of the game, each player secretly chooses one of three moves, or "throws" — rock, paper, or scissors. Then, players reveal their moves at the same time. If both players picked the same move, there is no winner. Otherwise, rock beats scissors; paper beats rock; and scissors beat paper. Players can play a single round, or "best of three", or any number of other options.
 
-Try importing it into the Python interpreter and experimenting with the Player and Game objects.
+Quickstart
+Clone the project and cd into it in your terminal
+Run python adventure_game.py or python3 adventure_game.py and follow the instruction on the screen
+On Windows run winpty python adventure_game.py in order for the program to run correctly
+Note: The project runs on python 3
